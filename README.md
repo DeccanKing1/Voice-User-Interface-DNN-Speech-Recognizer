@@ -9,7 +9,7 @@ Recurrent Neural Networks to Convert Voice data to Text
 
 ## Project Overview
 
-In this notebook, you will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline!  
+In this notebook, we will build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline!  
 
 ![ASR Pipeline][image1]
 
